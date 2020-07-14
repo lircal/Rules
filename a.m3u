@@ -1,4 +1,4 @@
-<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">#EXTM3U
+#EXTM3U
 #EXTINF:-1 ,CCTV-1高清
 http://192.168.50.1:8888/rtp/239.93.0.184:5140
 #EXTINF:-1 ,CCTV-2高清
@@ -313,4 +313,3 @@ http://192.168.50.1:8888/rtp/239.93.1.235:5140
 http://192.168.50.1:8888/rtp/239.93.1.157:4120
 #EXTINF:-1 ,大爱四川
 http://192.168.50.1:8888/rtp/239.93.1.109:5140
-</pre></body></html>
